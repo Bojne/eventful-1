@@ -15,7 +15,11 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from django.conf.urls import url
+from events import views as event_views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    url(r'^api-events/$', event_views.EventAPI.as_view()),
+    url(r'^api-users/$', event_views.UserAPI.as_view()),
 ]
