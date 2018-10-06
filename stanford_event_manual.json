@@ -1,0 +1,27 @@
+{
+    "events": [{
+            "Title": "VMware Networking Day!",
+            "Time": "October 8th 2018 at 11:00 am",
+            "Location": " 350 Serra Mall, Stanford, California 94305, United States",
+            "ID": "events/216715",
+            "Type": "Other",
+            "Rigistration": 16
+        },
+        {
+            "Title": "Walmart eCommerce and Jet.com Info Session",
+            "Time": "October 8th 2018 at 11:30 am",
+            "Location": "Tresidder Memorial Union, Cypress North, Stanford University, 459 Lagunita Dr, Stanford, CA 94305, USA",
+            "ID": "events/210621",
+            "Type": "Info Session",
+            "#Rigistration": 21
+        },
+        {
+            "Title": "Building Your  Interviewing Skills- Engineering and SE3 Students",
+            "Time": "October 8th 2018 at 11:30 am",
+            "Location": "Tresidder Memorial Union, Cypress North, Stanford University, 459 Lagunita Dr, Stanford, CA 94305, USA",
+            "ID": "events/203807",
+            "Type": "Workshop",
+            "#Rigistration": 40
+        }
+    ]
+}
