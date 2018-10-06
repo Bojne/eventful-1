@@ -13,7 +13,6 @@ class EventAPI(ObtainAuthToken):
         """
         events = Event.objects.all()
         serializer = EventSerializer(events, many=True)
-        print("JHFKLDJSLFJKLSJKLKJ")
         return Response(serializer.data)
         
 #API for accessing user objects        
